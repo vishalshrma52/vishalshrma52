@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm vishal sharma</h1>
-<h3 align="center">A passionate java full stack developer from India</h3>
+<h3 align="center">Full Stack Java Developer from Cetpa Infotech Pvt. Ltd. (Noida Sector2)</h3>
 <img align="right" alt="coding" width="1000" src="https://miro.medium.com/v2/resize:fit:640/1*lhOax3cZATGZwEhG0uTYRA.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalshrma52&label=Profile%20views&color=0e75b6&style=flat" alt="vishalshrma52" /> </p>
