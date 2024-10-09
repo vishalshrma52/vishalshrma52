@@ -10,7 +10,8 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 📫 How to reach me **vishalshrma446@gmail.com**, **8222094366**
+- 📫 How to reach me **vishalshrma446@gmail.com**
+- Contact **8222094366**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
